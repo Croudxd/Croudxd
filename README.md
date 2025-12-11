@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Check out some of projects
-Currently working on [[env]](https://github.com/Croudxd/env) and [[backtester]](https://github.com/Croudxd/backtester)
+Currently working on [env](https://github.com/Croudxd/env) and [backtester](https://github.com/Croudxd/backtester)
 
 ### Currently studying computer science at University of Reading.
 
